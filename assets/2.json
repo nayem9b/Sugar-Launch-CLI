@@ -1,0 +1,20 @@
+{
+    "name": "Number #0002",
+    "symbol": "NB",
+    "description": "Collection of 6 photos of mine on the blockchain. This is the number 3/6.",
+ "image": "image.jpg",
+    "attributes": [
+      {
+        "trait_type": "Number",
+        "value": "0"
+      }
+   ],
+    "properties": {
+      "files": [
+        {
+          "uri": "2.jpg",
+          "type": "image/jpg"
+        }
+      ]
+    }
+}
